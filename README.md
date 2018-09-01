@@ -1,2 +1,2 @@
 # breakout_js
-ブロック崩し（.js1期の課題）
+ブロック崩し（javascript1期の課題）
